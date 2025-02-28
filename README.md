@@ -5,14 +5,18 @@ Projeto do TCC - MBA
 
 Features:
 
-{
-  porto : ["Aratu - Salvador", "Manaus", "Natal", "Pecém - Fortaleza", "Porto Velho", "Suape - Recife", "Vila do Conde"],
-  mes : ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"],
-  tipo_navegação : ["Cabotagem", "Longo Curso", "Interior"],
-  tipo_operacao : ["Interior", "Longo Curso Importação", "Cabotagem", "Baldeação de Carga Estrangeira de Passagem", "Baldeação de Carga Nacional", "Longo Curso Exportação", "Longo Curso Exportação com Baldeação de Carga Estrangeira", "Longo Curso Importação com Baldeação de Carga Estrangeira", "Movimentação de Carga"],
-  mercadoria : ["Maquinário", "Alumínio", "Cereais", "Ferro", "Frutas", "Madeira e Carvão", "Materiais de Construção", "Materiais e aparelhos elétricos", "Papel e seus derivados", "Plásticos", "Produtos Químicos Orgânicos"],
-  peso_carga : float64()
-}
+  - porto : ["Aratu - Salvador", "Manaus", "Natal", "Pecém - Fortaleza", "Porto Velho", "Suape - Recife", "Vila do Conde"]
+  
+  - mes : ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
+    
+  - tipo_navegação : ["Cabotagem", "Longo Curso", "Interior"]
+    
+  - tipo_operacao : ["Interior", "Longo Curso Importação", "Cabotagem", "Baldeação de Carga Estrangeira de Passagem", "Baldeação de Carga Nacional", "Longo Curso Exportação", "Longo Curso Exportação com Baldeação de Carga Estrangeira", "Longo Curso Importação com Baldeação de Carga Estrangeira", "Movimentação de Carga"]
+    
+  - mercadoria : ["Maquinário", "Alumínio", "Cereais", "Ferro", "Frutas", "Madeira e Carvão", "Materiais de Construção", "Materiais e aparelhos elétricos", "Papel e seus derivados", "Plásticos", "Produtos Químicos Orgânicos"]
+    
+  - peso_carga : float64()
+
 
 Target:
 
