@@ -20,9 +20,9 @@ Features:
 
 Target:
 
-{
-  nivel_atraso : ["Bom", "Moderado", "Ruim"]
-}
+
+  - nivel_atraso : ["Bom", "Moderado", "Ruim"]
+
 
 Onde as classificações da Target são:
 
