@@ -45,7 +45,7 @@ Resultado do gráfico da área abaixo da curva ROC para o modelo escolhido:
 
 ----------------------------------------------------------------------------
 
-Endpoint da API que recebe as features, no formato JSON, para previsão do modelo XGBC treinado:
+Endpoint da API que recebe as features, no formato JSON, para previsão do modelo XGB treinado:
 
   - https://vps.butturi.com.br/predict
 
