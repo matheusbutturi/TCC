@@ -28,7 +28,7 @@ Onde as classificações da Target são:
 
   - Bom: Tempo de espera < 10 minutos
   - Moderado: Tempo de espera entre 10 minutos e 2 horas
-  - Ruim: Maior do que 2 horas
+  - Ruim: Tempo de espera maior do que 2 horas
 
 
 -----------------------------------------------------------------------------
