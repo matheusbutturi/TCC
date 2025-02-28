@@ -51,6 +51,6 @@ Endpoint da API que recebe as features, no formato JSON, para previsão do model
 
 --------------------------------------------------------------------------
 
-Site que envia as features em JSON para a API, evitando erros de digitação e dispensando conhecimento em programação:
+Site que envia as features em JSON para a API, evitando erros de digitação e dispensando conhecimento em programação, e retorna o resultado do predict:
 
   - https://butturi.com.br/analise_atraso
