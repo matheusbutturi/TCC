@@ -42,3 +42,15 @@ XGBClassifier(verbosity=0, n_estimators=950, learning_rate=0.01, max_depth=8)
 Resultado do gráfico da área abaixo da curva ROC para o modelo escolhido:
 
 ![roc_xgb](https://github.com/user-attachments/assets/92732b72-42de-4140-9d24-8ef5517f160b)
+
+----------------------------------------------------------------------------
+
+Endpoint da API que recebe as features, no formato JSON, para previsão do modelo XGBC treinado:
+
+  - https://vps.butturi.com.br/predict
+
+--------------------------------------------------------------------------
+
+Site que envia as features em JSON para a API, evitando erros de digitação e dispensando conhecimento em programação:
+
+  - https://butturi.com.br/analise_atraso
