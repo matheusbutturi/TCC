@@ -1,5 +1,4 @@
-# TCC
-Projeto do TCC - MBA
+# Projeto do TCC - MBA USP ESALQ
 
 Dados obtidos do [Estatístico Aquaviário da ANTAQ](https://web3.antaq.gov.br/ea/sense/download.html#pt)
 
